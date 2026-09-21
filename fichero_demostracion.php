@@ -3,7 +3,7 @@ date_default_timezone_set('Europe/Madrid');
 
 $fechaActual = date('d/m/Y');
 $horaActual = date('H:i:s');
-$mensaje = 'El contenido de esta página ha sido generado dinámicamente con PHP.';
+$mensaje = 'El contenido de esta página ha sido generado dinámicamente con PHP (y con mucho amor).';
 ?>
 <!DOCTYPE html>
 <html lang="es">
@@ -15,7 +15,7 @@ $mensaje = 'El contenido de esta página ha sido generado dinámicamente con PHP
 
 <body>
     <header>
-        <h1>Prueba de Concepto Backend</h1>
+        <h1>Prueba de Concepto Backend - Irene</h1>
     </header>
 
     <main>
