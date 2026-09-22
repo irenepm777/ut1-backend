@@ -38,8 +38,8 @@ $mensaje = 'El contenido de esta página ha sido generado dinámicamente con PHP
         <?php
         /*
          * htmlspecialchars() convierte caracteres especiales antes de mostrarlos como HTML.
-         * Así el contenido no confiable pueda interpretarse como codigo HTML o JavaScript 
-         * en el navegador, ayudando a prevenir XSS.
+         * Así se evita que contenido no confiable pueda interpretarse como código HTML JavaScript en el navegador,
+         * ayudando a prevenir ataques XSS.
          */
         ?>
     </main>
